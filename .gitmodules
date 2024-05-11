@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "extBatchMarking"]
 	path = extBatchMarking
-	url = https://github.com/olobatuyi/extbatchmarking
+	url = https://github.com/cran/extBatchMarking
